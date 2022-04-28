@@ -20,9 +20,10 @@ LISA is defined as having two properties. (1) the LISA for each observation give
 ### Kruskil-Wallis and Pairwise Wilcox
 I ran a Kruskil-Wallis test, because the data is non-parametric. The null hypothesis for the Kruskil-Wallis test is that the mean ranks of all the groups are the same. While the alternate hypothesis is that the mean ranks of the groups are different. Next, to determine which groups were significantly different I used a pairwise Wilcox test to identify which racial/ethnic groups were different from each other.
 
-![Box plot showing differences across racial groups for $100K or more in income](https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/%24100%2BK_IncomePanEthnic.jpg?raw=true)
+| 100K+ Income  |Var 2   |   |   |   |
+|---|---|---|---|---|
+| <img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/%24100%2BK_IncomePanEthnic.jpg?raw=true" width = "200" height = "200">   | var 2 img   |   |   |   |
 
-<img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/%24100%2BK_IncomePanEthnic.jpg?raw=true" width = "100" height = "100"> 
 
 ## Findings
 Asian Americans racial/ethnic groups are clustered across Philadelphia. There are significant differences in Education, Income, and proximity to White and Black populations
