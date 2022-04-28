@@ -21,9 +21,11 @@ LISA is defined as having two properties. (1) the LISA for each observation give
 I ran a Kruskil-Wallis test, because the data is non-parametric. The null hypothesis for the Kruskil-Wallis test is that the mean ranks of all the groups are the same. While the alternate hypothesis is that the mean ranks of the groups are different. Next, to determine which groups were significantly different I used a pairwise Wilcox test to identify which racial/ethnic groups were different from each other.
 
 <center>
+  
 | 100K+ Income  |Bachelors or More  |Black Population   |White Population   |
 |---|---|---|---|
 | <img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/%24100%2BK_IncomePanEthnic.jpg?raw=true" width = "200" height = "200">   | <img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/Bachelor_more_Edu_AttainmentPanEthnic.jpg?raw=true" wight = "200" height = "200">   | <img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/Black_RacePanEthnic.jpg?raw=true" width = "200" height = "200">  | <img src = "https://github.com/CPLN-680-Spring-2022/Sun_Jonathon_AsAmClustering/blob/main/Analysis/Figs/Kruskal_Box/white_RacePanEthnic.jpg?raw=true" width = "200" height = "200">  |
+
 </center>
 
 ## Findings
