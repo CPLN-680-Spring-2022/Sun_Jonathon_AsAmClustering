@@ -1,0 +1,25 @@
+Income,,,,Asian Ethnicity,,,Education,
+ACS Variable,Recode,,,ACS Variable,Recode,,No_schooling_completed,Some_HS_or_less
+"Less_than_$10,000",Less_$50k,,,Asian_Indian,South_Asian,,Nursery_school,Some_HS_or_less
+"$10,000_to_$14,999",Less_$50k,,,Bangladeshi,South_Asian,,Kindergarten,Some_HS_or_less
+"$15,000_to_$19,999",Less_$50k,,,Bhutanese,South_Asian,,1st_grade,Some_HS_or_less
+"$20,000_to_$24,999",Less_$50k,,,Burmese,Southeast_Asian,,2nd_grade,Some_HS_or_less
+"$25,000_to_$29,999",Less_$50k,,,Cambodian,Southeast_Asian,,3rd_grade,Some_HS_or_less
+"$30,000_to_$34,999",Less_$50k,,,"Chinese,_except_Taiwanese",East_Asian,,4th_grade,Some_HS_or_less
+"$35,000_to_$39,999",Less_$50k,,,Filipino,Filipino,,5th_grade,Some_HS_or_less
+"$40,000_to_$44,999",Less_$50k,,,Hmong,Southeast_Asian,,6th_grade,Some_HS_or_less
+"$45,000_to_$49,999",Less_$50k,,,Indonesian,Southeast_Asian,,7th_grade,Some_HS_or_less
+"$50,000_to_$59,999",$50-$99k,,,Japanese,East_Asian,,8th_grade,Some_HS_or_less
+"$60,000_to_$74,999",$50-$99k,,,Korean,East_Asian,,9th_grade,Some_HS_or_less
+"$75,000_to_$99,999",$50-$99k,,,Laotian,Southeast_Asian,,10th_grade,Some_HS_or_less
+"$100,000_to_$124,999",$100+K,,,Malaysian,Southeast_Asian,,11th_grade,Some_HS_or_less
+"$125,000_to_$149,999",$100+K,,,Mongolian,East_Asian,,"12th_grade,_no_diploma",Some_HS_or_less
+"$150,000_to_$199,999",$100+K,,,Nepalese,South_Asian,,Regular_high_school_diploma,High_School_No_Bachelor
+"$200,000_or_more",$100+K,,,Okinawan,okinwan,,GED_or_alternative_credential,High_School_No_Bachelor
+,,,,Pakistani,South_Asian,,"Some_college,_less_than_1_year",High_School_No_Bachelor
+,,,,Sri_Lankan,South_Asian,,"Some_college,_1_or_more_years,_no_degree",High_School_No_Bachelor
+,,,,Taiwanese,East_Asian,,Associate's_degree,High_School_No_Bachelor
+,,,,Thai,East_Asian,,Bachelor's_degree,Bachelor_more
+,,,,,,,Master's_degree,Bachelor_more
+,,,,,,,Professional_school_degree,Bachelor_more
+,,,,,,,Doctorate_degree,Bachelor_more

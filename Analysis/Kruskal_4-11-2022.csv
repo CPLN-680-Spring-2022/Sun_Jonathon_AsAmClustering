@@ -1,0 +1,84 @@
+,.y.,n,statistic,df,p,method,Variable
+1,estimate,49,34.78588235,11,0.000269,Kruskal-Wallis,"Other_Asian,_not_specified"
+2,estimate,49,33.05364559,11,0.000516,Kruskal-Wallis,Black_or_African_American_alone
+3,estimate,49,32.34589484,11,0.000671,Kruskal-Wallis,Vietnamese
+4,estimate,49,31.55114299,11,9.00E-04,Kruskal-Wallis,"Chinese,_except_Taiwanese"
+5,Values,49,30.4122781,11,0.00136,Kruskal-Wallis,Median number of rooms
+6,estimate,49,29.88965517,11,0.00165,Kruskal-Wallis,Taiwanese
+7,estimate,49,29.03983594,11,0.00224,Kruskal-Wallis,9th_grade
+8,estimate,49,28.50195091,11,0.00271,Kruskal-Wallis,Bangladeshi
+9,estimate,49,27.55630389,11,0.00378,Kruskal-Wallis,Regular_high_school_diploma
+10,estimate,49,27.55245049,11,0.00379,Kruskal-Wallis,Doctorate_degree
+11,estimate,49,27.27563116,11,0.00417,Kruskal-Wallis,Asian_Indian
+12,estimate,49,27.19430263,11,0.00429,Kruskal-Wallis,Some_other_race_alone
+13,estimate,49,26.81067401,11,0.00491,Kruskal-Wallis,Associate's_degree
+14,estimate,49,26.58664758,11,0.0053,Kruskal-Wallis,No_schooling_completed
+15,estimate,49,26.30226244,11,0.00585,Kruskal-Wallis,Indonesian
+16,estimate,49,26.29861111,11,0.00586,Kruskal-Wallis,Burmese
+17,estimate,49,26.11996396,11,0.00623,Kruskal-Wallis,Korean
+18,estimate,49,24.67162218,11,0.0102,Kruskal-Wallis,"$200,000_or_more"
+19,estimate,49,23.53085973,11,0.0149,Kruskal-Wallis,Laotian
+20,estimate,49,23.5,11,0.015,Kruskal-Wallis,Thai
+21,estimate,49,23.4922449,11,0.0151,Kruskal-Wallis,"Some_college,_1_or_more_years,_no_degree"
+22,estimate,49,23.15625415,11,0.0168,Kruskal-Wallis,GED_or_alternative_credential
+23,estimate,49,23.05774059,11,0.0173,Kruskal-Wallis,"Less_than_$10,000"
+24,estimate,49,22.60543967,11,0.0201,Kruskal-Wallis,"12th_grade,_no_diploma"
+25,estimate,49,22.42759184,11,0.0213,Kruskal-Wallis,White_alone
+26,estimate,49,22.42759184,11,0.0213,Kruskal-Wallis,White_alone
+27,estimate,49,22.42759184,11,0.0213,Kruskal-Wallis,White_alone
+28,estimate,49,22.42759184,11,0.0213,Kruskal-Wallis,White_alone
+29,estimate,49,22.19741322,11,0.0229,Kruskal-Wallis,"$125,000_to_$149,999"
+30,Values,49,21.90016327,11,0.0252,Kruskal-Wallis,Median earnings in the past 12 months Total
+31,estimate,49,21.55715452,11,0.028,Kruskal-Wallis,11th_grade
+32,estimate,49,21.48051842,11,0.0287,Kruskal-Wallis,Master's_degree
+33,estimate,49,21.25877551,11,0.0308,Kruskal-Wallis,Median income in the past 12 months Total
+34,estimate,49,21.24897959,11,0.0309,Kruskal-Wallis,Bachelor's_degree
+35,estimate,49,20.97004082,11,0.0337,Kruskal-Wallis,Asian_alone
+36,estimate,49,20.9688332,11,0.0337,Kruskal-Wallis,Pakistani
+37,estimate,49,20.71640864,11,0.0364,Kruskal-Wallis,Professional_school_degree
+38,estimate,49,19.64666735,11,0.0504,Kruskal-Wallis,"$100,000_to_$124,999"
+39,estimate,49,19.5739227,11,0.0515,Kruskal-Wallis,8th_grade
+40,estimate,49,19.38605572,11,0.0545,Kruskal-Wallis,Two_or_more_Asian
+41,estimate,49,19.04704562,11,0.0603,Kruskal-Wallis,"Some_college,_less_than_1_year"
+42,estimate,49,18.63527326,11,0.068,Kruskal-Wallis,Japanese
+43,estimate,49,18.3094195,11,0.0747,Kruskal-Wallis,7th_grade
+44,estimate,49,18.26882434,11,0.0755,Kruskal-Wallis,"$20,000_to_$24,999"
+45,estimate,49,18.13668147,11,0.0785,Kruskal-Wallis,"$15,000_to_$19,999"
+46,estimate,49,17.92458463,11,0.0833,Kruskal-Wallis,"$150,000_to_$199,999"
+47,estimate,49,17.84680851,11,0.0852,Kruskal-Wallis,1st_grade
+48,Values,49,17.80008164,11,0.0863,Kruskal-Wallis,Median gross rent Total
+49,estimate,49,17.77238212,11,0.087,Kruskal-Wallis,"$25,000_to_$29,999"
+50,estimate,49,17.73636632,11,0.0879,Kruskal-Wallis,Native_Hawaiian_and_Other_Pacific_Islander_alone
+51,estimate,49,17.71342248,11,0.0885,Kruskal-Wallis,"$30,000_to_$34,999"
+52,estimate,49,17.46613546,11,0.0948,Kruskal-Wallis,5th_grade
+53,Values,49,17.31242004,11,0.099,Kruskal-Wallis,Median gross rent as a percentage of household income
+54,Values,49,17.03419199,11,0.107,Kruskal-Wallis,Median year structure built
+55,estimate,49,16.47676211,11,0.124,Kruskal-Wallis,"$10,000_to_$14,999"
+56,estimate,49,16.25836015,11,0.132,Kruskal-Wallis,American_Indian_and_Alaska_Native_alone
+57,estimate,49,16.26075236,11,0.132,Kruskal-Wallis,Filipino
+58,estimate,49,15.96766429,11,0.142,Kruskal-Wallis,6th_grade
+59,estimate,49,15.89982085,11,0.145,Kruskal-Wallis,4th_grade
+60,estimate,49,15.7791716,11,0.15,Kruskal-Wallis,Cambodian
+61,estimate,49,14.97916667,11,0.183,Kruskal-Wallis,Sri_Lankan
+62,estimate,49,14.74833112,11,0.194,Kruskal-Wallis,"$50,000_to_$59,999"
+63,estimate,49,14.47555374,11,0.208,Kruskal-Wallis,10th_grade
+64,estimate,49,14.33558595,11,0.215,Kruskal-Wallis,"$60,000_to_$74,999"
+65,estimate,49,13.67846811,11,0.251,Kruskal-Wallis,2nd_grade
+66,estimate,49,13.68325422,11,0.251,Kruskal-Wallis,"$75,000_to_$99,999"
+67,estimate,49,13.40964433,11,0.267,Kruskal-Wallis,"$35,000_to_$39,999"
+68,estimate,49,12.23367691,11,0.346,Kruskal-Wallis,Two_or_more_races
+69,estimate,49,11.80090176,11,0.379,Kruskal-Wallis,3rd_grade
+70,estimate,49,11.7441555,11,0.383,Kruskal-Wallis,Two_or_more_races_Two_races_including_Some_other_race
+71,estimate,49,11.25,11,0.423,Kruskal-Wallis,Mongolian
+72,estimate,49,10.95251608,11,0.447,Kruskal-Wallis,"$45,000_to_$49,999"
+73,estimate,49,10.58167713,11,0.479,Kruskal-Wallis,"$40,000_to_$44,999"
+74,Values,5,0.5,1,0.48,Kruskal-Wallis,Median income in the past 12 months Total Moved from abroad
+75,estimate,49,7.686826928,11,0.741,Kruskal-Wallis,"Two_or_more_races_Two_races_excluding_Some_other_race,_and_three_or_more_races"
+76,estimate,49,7.166666667,11,0.785,Kruskal-Wallis,Hmong
+77,estimate,49,7.166666667,11,0.785,Kruskal-Wallis,Malaysian
+78,estimate,49,6.992236599,11,0.8,Kruskal-Wallis,Nursery_school
+79,estimate,49,6.937227357,11,0.804,Kruskal-Wallis,Kindergarten
+80,estimate,49,NA,11,NA,Kruskal-Wallis,Bhutanese
+81,estimate,49,NA,11,NA,Kruskal-Wallis,Nepalese
+82,estimate,49,NA,11,NA,Kruskal-Wallis,Okinawan
+83,estimate,49,NA,11,NA,Kruskal-Wallis,"Other_Asian,_specified"

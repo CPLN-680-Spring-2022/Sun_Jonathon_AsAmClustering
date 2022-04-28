@@ -1,0 +1,56 @@
+"","Clusters","variable","n","min","max","median","q1","q3","iqr","mad","mean","sd","se","ci"
+"1","AAPI_Race_Cluster","Median income in the past 12 months Total",2,17660,25016,21338,19499,23177,3678,5453.003,21338,5201.477,3678,46733.421
+"2","East_Asian_Asian_Cluster","Median income in the past 12 months Total",13,4478,60737,29985,24963,44470,19507,8960.834,34300.846,15622.968,4333.032,9440.865
+"3","Filipino_Asian_Cluster","Median income in the past 12 months Total",1,28717,28717,28717,28717,28717,0,0,28717,NA,NA,NA
+"4","South_Asian_Asian_Cluster","Median income in the past 12 months Total",7,21344,41096,29605,25245,33415.5,8170.5,9521.257,29909.429,7096.753,2682.32,6563.402
+"5","Southeast_Asian_Asian_Cluster","Median income in the past 12 months Total",18,13771,30761,20558,17701.5,24194,6492.5,5301.778,21128.5,4700.106,1107.826,2337.308
+"6","AAPI_Race_Cluster","Median earnings in the past 12 months Total",2,25694,31012,28353,27023.5,29682.5,2659,3942.233,28353,3760.394,2659,33785.798
+"7","East_Asian_Asian_Cluster","Median earnings in the past 12 months Total",13,6263,76553,40572,34331,61071,26740,19940.97,44401.462,19617.056,5440.793,11854.469
+"8","Filipino_Asian_Cluster","Median earnings in the past 12 months Total",1,30480,30480,30480,30480,30480,0,0,30480,NA,NA,NA
+"9","South_Asian_Asian_Cluster","Median earnings in the past 12 months Total",7,28657,54130,37944,33290,40668.5,7378.5,5697.632,38378.286,8234.311,3112.277,7615.467
+"10","Southeast_Asian_Asian_Cluster","Median earnings in the past 12 months Total",18,21881,40315,27493,24145,32690,8545,5613.124,28867.889,5717.254,1347.57,2843.123
+"11","AAPI_Race_Cluster","Median gross rent Total",2,1097,1191,1144,1120.5,1167.5,47,69.682,1144,66.468,47,597.192
+"12","East_Asian_Asian_Cluster","Median gross rent Total",13,878,2461,1203,1002,1568,566,392.889,1386.615,493.599,136.9,298.279
+"13","Filipino_Asian_Cluster","Median gross rent Total",1,1155,1155,1155,1155,1155,0,0,1155,NA,NA,NA
+"14","South_Asian_Asian_Cluster","Median gross rent Total",7,870,1357,1059,967.5,1094,126.5,123.056,1058.429,155.413,58.741,143.733
+"15","Southeast_Asian_Asian_Cluster","Median gross rent Total",18,681,1096,948,872.75,1014.5,141.75,113.419,927.722,116.239,27.398,57.804
+"16","South_Asian_Asian_Cluster","white_Race",16,656,5755,3845.5,2789.5,4420,1630.5,1564.143,3643.188,1464.904,366.226,780.592
+"17","East_Asian_Asian_Cluster","white_Race",24,1001,5102,2957,1841.25,3472.25,1631,1264.658,2769.5,1133.156,231.304,478.49
+"18","Filipino_Asian_Cluster","white_Race",1,1736,1736,1736,1736,1736,0,0,1736,NA,NA,NA
+"19","Southeast_Asian_Asian_Cluster","white_Race",20,139,3537,710.5,396.25,1933.5,1537.25,662.722,1301.35,1162.52,259.947,544.076
+"20","South_Asian_Asian_Cluster","Black_Race",16,7,1904,350,117.5,879.5,762,389.924,573.312,598.898,149.725,319.13
+"21","East_Asian_Asian_Cluster","Black_Race",24,85,2509,726.5,313,1109,796,626.398,791.042,573.731,117.112,242.265
+"22","Filipino_Asian_Cluster","Black_Race",1,764,764,764,764,764,0,0,764,NA,NA,NA
+"23","Southeast_Asian_Asian_Cluster","Black_Race",20,20,4501,2382.5,1581.75,3768.25,2186.5,2004.475,2557.1,1396.886,312.353,653.763
+"24","South_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",16,177,985,461,294.75,580.25,285.5,250.559,485.875,224.247,56.062,119.493
+"25","East_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",24,32,1377,515.5,165.25,743.5,578.25,403.267,525.542,380.852,77.741,160.82
+"26","Filipino_Asian_Cluster","Some_HS_or_less_Edu_Attainment",1,503,503,503,503,503,0,0,503,NA,NA,NA
+"27","Southeast_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",20,189,1747,810,597.5,1077.75,480.25,359.53,854.7,412.652,92.272,193.127
+"28","South_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",16,387,2242,1238.5,1004.5,1679.5,675,461.089,1309.625,482.721,120.68,257.224
+"29","East_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",24,333,3624,911,535.5,1502.5,967,598.97,1166.625,853.644,174.249,360.462
+"30","Filipino_Asian_Cluster","Bachelor_more_Edu_Attainment",1,1165,1165,1165,1165,1165,0,0,1165,NA,NA,NA
+"31","Southeast_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",20,126,833,432.5,284.25,540.25,256,212.012,451.65,196.375,43.911,91.907
+"32","South_Asian_Asian_Cluster","$100+K_Income",16,222,1052,474,296.25,645.5,349.25,269.092,493.875,228.905,57.226,121.975
+"33","East_Asian_Asian_Cluster","$100+K_Income",24,64,1195,311,214.75,488.25,273.5,213.494,417.75,304.881,62.234,128.74
+"34","Filipino_Asian_Cluster","$100+K_Income",1,264,264,264,264,264,0,0,264,NA,NA,NA
+"35","Southeast_Asian_Asian_Cluster","$100+K_Income",20,60,485,173.5,123,260.25,137.25,106.747,213.8,125.933,28.16,58.939
+"36","South_Asian_Asian_Cluster","white_Race",16,656,5755,3845.5,2789.5,4420,1630.5,1564.143,3643.188,1464.904,366.226,780.592
+"37","East_Asian_Asian_Cluster","white_Race",24,1001,5102,2957,1841.25,3472.25,1631,1264.658,2769.5,1133.156,231.304,478.49
+"38","Filipino_Asian_Cluster","white_Race",1,1736,1736,1736,1736,1736,0,0,1736,NA,NA,NA
+"39","Southeast_Asian_Asian_Cluster","white_Race",20,139,3537,710.5,396.25,1933.5,1537.25,662.722,1301.35,1162.52,259.947,544.076
+"40","South_Asian_Asian_Cluster","Black_Race",16,7,1904,350,117.5,879.5,762,389.924,573.312,598.898,149.725,319.13
+"41","East_Asian_Asian_Cluster","Black_Race",24,85,2509,726.5,313,1109,796,626.398,791.042,573.731,117.112,242.265
+"42","Filipino_Asian_Cluster","Black_Race",1,764,764,764,764,764,0,0,764,NA,NA,NA
+"43","Southeast_Asian_Asian_Cluster","Black_Race",20,20,4501,2382.5,1581.75,3768.25,2186.5,2004.475,2557.1,1396.886,312.353,653.763
+"44","South_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",16,177,985,461,294.75,580.25,285.5,250.559,485.875,224.247,56.062,119.493
+"45","East_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",24,32,1377,515.5,165.25,743.5,578.25,403.267,525.542,380.852,77.741,160.82
+"46","Filipino_Asian_Cluster","Some_HS_or_less_Edu_Attainment",1,503,503,503,503,503,0,0,503,NA,NA,NA
+"47","Southeast_Asian_Asian_Cluster","Some_HS_or_less_Edu_Attainment",20,189,1747,810,597.5,1077.75,480.25,359.53,854.7,412.652,92.272,193.127
+"48","South_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",16,387,2242,1238.5,1004.5,1679.5,675,461.089,1309.625,482.721,120.68,257.224
+"49","East_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",24,333,3624,911,535.5,1502.5,967,598.97,1166.625,853.644,174.249,360.462
+"50","Filipino_Asian_Cluster","Bachelor_more_Edu_Attainment",1,1165,1165,1165,1165,1165,0,0,1165,NA,NA,NA
+"51","Southeast_Asian_Asian_Cluster","Bachelor_more_Edu_Attainment",20,126,833,432.5,284.25,540.25,256,212.012,451.65,196.375,43.911,91.907
+"52","South_Asian_Asian_Cluster","$100+K_Income",16,222,1052,474,296.25,645.5,349.25,269.092,493.875,228.905,57.226,121.975
+"53","East_Asian_Asian_Cluster","$100+K_Income",24,64,1195,311,214.75,488.25,273.5,213.494,417.75,304.881,62.234,128.74
+"54","Filipino_Asian_Cluster","$100+K_Income",1,264,264,264,264,264,0,0,264,NA,NA,NA
+"55","Southeast_Asian_Asian_Cluster","$100+K_Income",20,60,485,173.5,123,260.25,137.25,106.747,213.8,125.933,28.16,58.939
