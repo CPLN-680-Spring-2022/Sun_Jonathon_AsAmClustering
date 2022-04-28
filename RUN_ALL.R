@@ -16,7 +16,7 @@ source("Data/Philly_School_metrics.R")
 source("Data/Carnegie_Classification.R")
 
 #Data Engineering
-
+## Future plan will include count of education institutions in each census tract
 
 #Model 1: Philadelphia
 source("Analysis/Moran_I.R")
